@@ -1,0 +1,27 @@
+:root {
+--Our_Black-color:rgba(13.000000175088644, 23.000000528991222, 23.000000528991222, 1.0);
+--Our_white-color:rgba(255.0, 255.0, 255.0, 1.0);
+--Secondary_color-color:rgba(140.00000685453415, 116.00000068545341, 36.00000165402889, 1.0);
+--Our_gray-color:rgba(148.000006377697, 140.00000685453415, 116.00000068545341, 1.0);
+}
+
+.Our_Black_color {
+color:var(--Our_Black-color);
+}
+
+.Our_white_color {
+color:var(--Our_white-color);
+}
+
+.Secondary_color {
+background-color:var(--Secondary_color-color);
+}
+
+.Our_gray_color {
+color:var(--Our_gray-color);
+}
+
+.Our_Black {
+background-color:var(--Our_Black-color);
+}
+
